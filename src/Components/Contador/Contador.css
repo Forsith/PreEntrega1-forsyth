@@ -1,0 +1,22 @@
+.Contador{
+width: 300px;
+background-color: blueviolet;
+margin-left: 20px;
+align-content:center ;
+}
+.Controles{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+.Buttom{
+    
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+
+}
+.buttomCar{
+    width: 90px ;
+}
